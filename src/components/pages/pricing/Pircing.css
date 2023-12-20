@@ -1,0 +1,11 @@
+.active {
+    --tw-bg-opacity: 1;
+    background-color: rgb(249 250 251 / var(--tw-bg-opacity));
+    border: 2px solid rgb(229 231 235 / var(--tw-bg-opacity));
+}
+
+button {
+    min-width: 120px;
+    padding: 6px;
+    border-radius: 9999px;
+}
